@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Carmen Reinicke",
+      "title": "Stock futures are little changed, traders await Walmart earnings - CNBC",
+      "description": "Here's how stock futures traded early Tuesday morning",
+      "url": "https://www.cnbc.com/2022/08/15/stock-market-news-futures-open-to-close.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107103947-1660578167510-nyse1.jpg?v=1660578193&w=1920&h=1080",
+      "publishedAt": "2022-08-16T10:34:00Z",
+      "content": "U.S. stock futures were little changed Tuesday after a solid session the prior day, as traders awaited quarterly reports from major U.S. retailers. \r\nDow Jones Industrial Average futures dipped 26 po… [+1306 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Cryptoverse: Electric ether leaps on verge of Merge - Reuters",
+      "description": "It looks like ethereum's mega-upgrade is happening. Finally.",
+      "url": "https://www.reuters.com/technology/cryptoverse-electric-ether-leaps-verge-merge-2022-08-16/",
+      "urlToImage": "https://www.reuters.com/resizer/Voh7dfk1YHPt1KJ8LpYLXoUg49w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OENJDLFACZIANF23Q23HPESQNY.jpg",
+      "publishedAt": "2022-08-16T10:00:00Z",
+      "content": "Aug 16 (Reuters) - It looks like ethereum's mega-upgrade is happening. Finally.\r\nAfter years of delays, the \"Merge\" seems all but certain to take place in September, with the cryptography underlying … [+4431 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Anne Heche Crash Scene Video From Inside House that Caught Fire - TMZ",
+      "description": "New video shows inside the home where Anne Heche crashed her car.",
+      "url": "https://www.tmz.com/2022/08/16/anne-heche-death-crash-video-inside-house/",
+      "urlToImage": "https://imagez.tmz.com/image/91/16by9/2022/08/15/91eba6e9d4404f9088fe45d43bb8f42e_xl.jpg",
+      "publishedAt": "2022-08-16T08:00:00Z",
+      "content": "New video from the scene of Anne Heche's fiery car crash shows a house in shambles ... it looks like a bomb went off inside the home where Anne's car barreled through.\r\nTMZ obtained this footage from… [+1550 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amy Simonson and Jennifer Feldman, CNN",
+      "title": "A large metal object fell from the sky near the Maine State Capitol, narrowly missing a person walking outside - CNN",
+      "description": "A Maine Capitol Police employee was spared Monday when a large metal object apparently from an aircraft crashed to the ground outside the building, narrowly missing him, officials said.",
+      "url": "https://www.cnn.com/2022/08/16/us/maine-large-metal-object-falls-near-capitol/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220816021239-large-metal-object-falls-maine-super-tease.jpg",
+      "publishedAt": "2022-08-16T07:49:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "James Marson",
+      "title": "Explosions Hit Russian Ammunition Depot in Crimea - The Wall Street Journal",
+      "description": "Russian authorities reported explosions at an ammunition depot in Crimea, a week after blasts at a Russian air base on the peninsula appeared to destroy several warplanes.",
+      "url": "https://www.wsj.com/articles/explosions-hit-russian-ammunition-depot-in-crimea-11660635257",
+      "urlToImage": "https://images.wsj.net/im-604757/social",
+      "publishedAt": "2022-08-16T07:34:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Landon Mion",
+      "title": "Jury selection begins in R. Kelly's federal trial in Chicago - Fox News",
+      "description": "Jury selection is underway at R. Kelly’s federal trial in his hometown of Chicago. The 'I Wish' singer faces charges that he rigged his 2008 state child pornography trial.",
+      "url": "https://www.foxnews.com/entertainment/jury-selection-begins-r-kellys-federal-trial-chicago",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/r-kelly.jpg",
+      "publishedAt": "2022-08-16T07:02:26Z",
+      "content": "Jury selection for singer R. Kelly's federal trial on allegations of child pornography and rigging his 2008 state trial kicked off Monday in Chicago in a trial that is expected to last up to four wee… [+2723 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "Kimberly Potts",
+      "title": "Better Call Saul ends with blasts from the past and one last twist - The A.V. Club",
+      "description": "The series finale “Saul Gone” is a supremely satisfying sendoff",
+      "url": "https://www.avclub.com/better-call-saul-review-season-6-episode-13-saul-gon-1849415911",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8de3741a322257b53730522efe49beda.png",
+      "publishedAt": "2022-08-16T06:39:00Z",
+      "content": "When asked to give a hint about how Better Call Saul would wrap up during a Tribeca Festival panel in June, Bob Odenkirk offered two words: second life. That clue turned out to be much pithier and mo… [+7946 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Frank Litsky",
+      "title": "Pete Carril, Princeton’s Textbook Basketball Coach, Dies at 92 - The New York Times",
+      "description": "Without athletic scholarships, he made outgunned teams winners by keeping them moving and unnerving opponents, leading to one of the biggest upsets in college basketball.",
+      "url": "https://www.nytimes.com/2022/08/15/sports/basketball/pete-carril-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/16/obituaries/00carril-pix1/00carril-pix1-facebookJumbo.jpg",
+      "publishedAt": "2022-08-16T05:46:00Z",
+      "content": "Around the Princeton campus he was a revered, raspy-voiced figure in a well-worn sweater and baggy khakis (or, when he dressed formally, a bow tie). A colleague once described him as a rumpled Lillip… [+1290 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Beast" },
+      "author": "Matt Young",
+      "title": "New Zealand Killer Who Stuffed Human Remains in Suitcases Could Be Overseas, Ex-Police Negotiator Says - The Daily Beast",
+      "description": "A former police negotiator in New Zealand said the killer or killers could have already made their escape.",
+      "url": "https://www.thedailybeast.com/new-zealand-killer-who-stuffed-human-remains-in-suitcases-could-be-overseas-ex-police-negotiator-says",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1820,w_3235,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1660615671/GettyImages-1288376946_tx4uj4",
+      "publishedAt": "2022-08-16T05:11:51Z",
+      "content": "A former police negotiator in New Zealand has said he is confident that the case of the bodies stuffed in suitcases will be solved, though there is a chance that the killer or killers could now be ov… [+1094 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "David Propper",
+      "title": "Fatal shooting of cinematographer by Alec Baldwin ruled accident - New York Post ",
+      "description": "The state’s medical investigator’s office said the shooting was accidental because there was an “absence of obvious intent to cause harm or death.”",
+      "url": "https://nypost.com/2022/08/16/alec-baldwin-fatal-rust-film-set-shooting-ruled-accident/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/alec-baldwin-104.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-08-16T04:31:00Z",
+      "content": "The shooting death of a cinematographer by actor Alec Baldwin on the set of “Rust” last year was an accident, New Mexicos Office of Medical Investigator determined.\r\nThe medical investigators report,… [+3242 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Josh Dawsey, Shayna Jacobs, Mark Berman",
+      "title": "Trump executive Weisselberg expected to reach plea deal - The Washington Post",
+      "description": "The longtime Trump Organization executive was indicted last year.",
+      "url": "https://www.washingtonpost.com/nation/2022/08/15/allen-weisselberg-trump-plea/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SXPQGKA2KYI63OMYWKVWR5MENA.jpg&w=1440",
+      "publishedAt": "2022-08-16T04:29:27Z",
+      "content": "Placeholder while article actions load\r\nAllen Weisselberg, the longtime chief financial officer of former president Donald Trumps company, is expected to reach a plea deal in a criminal case against … [+2700 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Steve Peoples",
+      "title": "Cheney braces for loss as Trump tested in Wyoming and Alaska - The Associated Press",
+      "description": "CHEYENNE, Wyo. (AP) — Wyoming Rep. Liz Cheney,  a leader in the Republican resistance to former President Donald Trump , is fighting to save her seat in the U.S.",
+      "url": "https://apnews.com/article/2022-midterm-elections-donald-trump-presidential-wyoming-alaska-48a5444f247727d26cf67a0a72f14637",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fa182d725d0047adb8c7b16d1cfc1628/3000.jpeg",
+      "publishedAt": "2022-08-16T04:25:07Z",
+      "content": "CHEYENNE, Wyo. (AP) Wyoming Rep. Liz Cheney, a leader in the Republican resistance to former President Donald Trump, is fighting to save her seat in the U.S. House on Tuesday as voters weigh in on th… [+6697 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Dominic Patten",
+      "title": "‘Flash’ Star Ezra Miller Agrees To Mental Health Treatment As Burglary Court Date Looms - Deadline",
+      "description": "After months of run-ins with the law and a spiraling PR crisis for Warner Bros, Flash star Ezra Miller has decided to seek treatment to counter a self-described “time of intense crisis.” A week after the non-binary identifying Miller was slapped with a burgla…",
+      "url": "https://deadline.com/2022/08/ezra-miller-mental-health-treatment-flash-police-charges-warner-bros-1235093044/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-15-at-8.18.10-PM.png?w=398",
+      "publishedAt": "2022-08-16T03:35:00Z",
+      "content": "After months of run-ins with the law and a spiraling PR crisis for Warner Bros, Flash star Ezra Miller has decided to seek treatment to counter a self-described “time of intense crisis.”\r\nA week afte… [+2903 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Jake Thomas",
+      "title": "Donald Trump Flack Says Email Reveals Who Took Passports From Mar-a-Lago - Newsweek",
+      "description": "A Trump spokesman says the passports were seized by agents meant to protect sensitive documents, contradicting a reported statement from the Justice Department.",
+      "url": "https://www.newsweek.com/donald-trump-flack-says-email-reveals-who-took-passports-mar-lago-1733851",
+      "urlToImage": "https://d.newsweek.com/en/full/2097841/security-fence-outside-fbi-building.jpg",
+      "publishedAt": "2022-08-16T03:34:31Z",
+      "content": "A Donald Trump spokesman is doubling down on the former president's assertion that federal law enforcement seized his passports after an earlier report stated the Department of Justice (DOJ) said it … [+2725 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Bizarre Underwater Snow Gives Clues About the Icy Shell of Jupiter’s Moon Europa - SciTechDaily",
+      "description": "Below the thick icy crust of Jupiter's moon Europa is a massive, global ocean where the snow floats upwards onto inverted ice peaks and submerged ravines. Bizarre underwater snow is known to occur below ice shelves on Earth, but new research shows that the sa…",
+      "url": "https://scitechdaily.com/bizarre-underwater-snow-gives-clues-about-the-icy-shell-of-jupiters-moon-europa/",
+      "urlToImage": "https://scitechdaily.com/images/Underwater-Snow-in-Antarctica.jpg",
+      "publishedAt": "2022-08-16T03:21:00Z",
+      "content": "ByUniversity of Texas at AustinAugust 15, 2022\r\nMounds of snow-like frazil ice under the Antarctic ice shelf. According to research from UT Austin, Europas ice shell could be made of the same stuff. … [+3662 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rob McLean, CNN Business",
+      "title": "4moms recalls millions of baby swings and rockers - CNN",
+      "description": "Millions of baby swings and rockers that pose a risk of asphyxiation or other injuries to infants have been recalled, according to an announcement Monday from the US Consumer Product Safety Commission.",
+      "url": "https://www.cnn.com/2022/08/15/business/4moms-recall-baby-swings-baby-rockers/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220815180538-mamaroo-infant-swing-recall-super-tease.jpg",
+      "publishedAt": "2022-08-16T03:11:00Z",
+      "content": "New York (CNN Business)Millions of baby swings and rockers that pose a risk of asphyxiation or other injuries to infants have been recalled, according to an announcement Monday from the US Consumer P… [+1858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale"
+      },
+      "author": "",
+      "title": "Miami-Dade Police Officer in critical condition after being shot - WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale",
+      "description": "MIAMI (WSVN) - A Miami-Dade Police officer has been shot and taken to the hospital in critical condition.Late Monday night and into Tuesday morning, a...",
+      "url": "https://wsvn.com/news/local/miami-dade/miami-dade-police-officer-in-critical-condition-after-being-shot/",
+      "urlToImage": "https://wsvn.com/wp-content/uploads/sites/2/2022/08/220815-miami-officer.png?w=1024",
+      "publishedAt": "2022-08-16T02:20:41Z",
+      "content": "MIAMI (WSVN) - A Miami-Dade Police officer has been shot and taken to the hospital in critical condition.\r\nLate Monday night and into Tuesday morning, a crush of police cruisers could be seen outside… [+2545 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Eileen Sullivan",
+      "title": "Migrant Apprehensions Surpass a Fiscal Year Record - The New York Times",
+      "description": "Border officials already had apprehended more migrants by June than they had in the entire previous fiscal year, and are on track to exceed two million by the end of September.",
+      "url": "https://www.nytimes.com/2022/08/15/us/politics/immigration-border.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/15/us/politics/15dc-immigration-1/15dc-immigration-1-facebookJumbo.jpg",
+      "publishedAt": "2022-08-16T01:41:40Z",
+      "content": "Many of the migrants coming across are seeking asylum, which was significantly restricted through several policies during the Trump administration when there was also a spike in migration. One of tho… [+1397 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5google.com" },
+      "author": "Abner Li",
+      "title": "Unified Pixel Launcher search disappears on Android 13 stable, fix coming - 9to5Google",
+      "description": "After installing the stable Android 13 release, you might have noticed that the new unified Pixel Launcher search has disappeared...",
+      "url": "https://9to5google.com/2022/08/15/android-13-unified-pixel-launcher-search/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/Pixel-Launcher-reverts-to-Google-Search-in-Android-13-Beta-1-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-08-16T01:11:00Z",
+      "content": "After installing Android 13’s stable release today, beta users might notice that the new unified Pixel Launcher search experience has disappeared.\r\nOne of Android 13’s best features on Pixel phones i… [+1603 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile",
+      "title": "What kind of a zoom camera upragrade does the Galaxy Z Fold 4 bring? - SamMobile - Samsung news",
+      "description": "The biggest drawback of the first three Galaxy Z Fold smartphones was their outdated zoom camera. The three phones featured ...",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-4-camera-zoom-features/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/08/Galaxy-Z-Fold-4-10-1-720x405.jpg",
+      "publishedAt": "2022-08-16T01:08:00Z",
+      "content": "The biggest drawback of the first three Galaxy Z Fold smartphones was their outdated zoom camera. The three phones featured a 2x optical zoom camera similar to the one that was introduced way back on… [+2022 chars]"
+    }
+  ]
+}
